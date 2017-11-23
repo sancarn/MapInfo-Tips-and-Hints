@@ -42,6 +42,8 @@ Now, you simply have to modify the original property of the object N!
 	
 -------
 
+# October 2017
+
 Can't get this to work anymore 28 October 2017
 
 However, if we go to the website and open up the javascript console you can access the `$A` variable.
